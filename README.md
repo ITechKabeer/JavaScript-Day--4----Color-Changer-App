@@ -1,5 +1,6 @@
 # 🎨 Background Color Generator (JavaScript Day 4)
-**Live Demo:** [Click Here](#)
+**Live Demo:** 
+[Click Here](https://color-changer-app-flame.vercel.app)
 
 An elegant and interactive **Background Color Generator** built entirely with **pure JavaScript DOM manipulation**.  
 Switch between random solid colors and beautiful gradients — all with smooth transitions and a responsive design.  
@@ -55,7 +56,7 @@ This project helps you strengthen:
 👨‍💻 **Developer:** Kabeer Hussain  
 📘 **Series:** JavaScript — *30 Days, 30 Projects*  
 📆 **Day:** 4 — *Background Color Generator*  
-📧 **Email:** your-email@example.com  
+📧 **Email:** codealpha0786@gmail.com  
 🔗 **GitHub:** [ITechKabeer](https://github.com/ITechKabeer)
 
 Made with ❤️ using pure JavaScript
