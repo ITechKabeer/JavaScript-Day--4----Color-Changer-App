@@ -47,7 +47,7 @@ This project helps you strengthen:
 ---
 
 ## 📸 Preview
-![App Preview](preview.png)
+![App Preview](demo.png)
 
 ---
 
